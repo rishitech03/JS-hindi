@@ -37,3 +37,6 @@ let str3 = str1 + str2;
 let gameCounter = 100;
 gameCounter++;
 console.log(gameCounter);
+
+// Read about Increment, Decrement, Prefix, Postfix and also try to understand the syntax on MDN resources:
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
